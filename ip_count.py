@@ -13,5 +13,6 @@ list_num = set(list)
 
 for j in list_num:
 	num = list.count(j)
+print(list_num)
 print('IP-----COUNT')
 print('%s-----%s' %(j,num))
