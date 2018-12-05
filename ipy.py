@@ -24,4 +24,4 @@ else:
 
 print('hexadecimal: %s' % ips.strHex())
 print('binary ip: %s' % ips.strBin())
-print('iptype: %s' % ips.iptype())
+print('iptype: %s' % ips.iptype())  # 注释
